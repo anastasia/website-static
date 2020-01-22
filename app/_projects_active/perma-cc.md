@@ -4,10 +4,10 @@
 title: Perma.cc
 
 # Optional
-project_website: http://perma.cc
+project_website: https://perma.cc/
 github_repo: https://github.com/harvard-lil/perma
 start_date:
-
+order: 3
 ### MEDIA ###
 # Required
 

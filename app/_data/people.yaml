@@ -12,25 +12,38 @@
 anastasia-aizman:
   name: Anastasia Aizman
   sort_name: Aizman
-  role: Developer
+  role: Developer & designer
   bio: >
-    Anastasia is a developer and designer, and she just came here to say
+    Anastasia just came here to say
     that she's fairly certain everyone is mispronouncing the word
     "academia".
   email: aaizman@law.harvard.edu
-  website: http://iamanastasia.com
+  website: https://anastasia.github.io
   twitter_account_name:
   github_account_name: anastasia
   image: anastasia-aizman.png
   affiliated: true
 
+  #brennan-chesley:
+  #name: Brennan Chesley
+  #sort_name: Chesley
+  #role: Developer
+  #bio: >
+  #        We're moving towards bios that are longer and a bit less jokey, like Ben's and Andy's bios
+  #email: bchesley@law.harvard.edu
+  #website: https://google.com
+  #twitter_account_name:
+  #github_account_name: 
+  #image: brennan-chesley.jpg
+  #affiliated: true
+
 samantha-bates:
   name: Samantha Bates
   sort_name: Bates
-  role: Research Associate
+  role: former Research Associate
   bio: >
-    Samantha works as a research associate for Professor Zittrain and
-    helps out with Lab projects. She previously worked in the legal
+    Samantha worked as a research associate for Professor Zittrain and
+    helped out with Lab projects. She previously worked in the legal
     department at Google and enjoys running, baking bread, and reading
     British literature.
   email: sbates@cyber.law.harvard.edu
@@ -38,6 +51,21 @@ samantha-bates:
   twitter_account_name:
   github_account_name:
   image: samantha-bates.jpg
+  affiliated: false
+
+john-bowers:
+  name: John Bowers
+  sort_name: Bowers
+  role: Research Associate
+  bio: >
+    John works as a research associate for Professor Zittrain. He likes
+    cooking, statistics, and historical nonfiction, and once legally named
+    his pet cat "Bitcoin" after losing a bet.
+  email: jobowers@law.harvard.edu
+  website:
+  twitter_account_name:
+  github_account_name: john-bowers
+  image: john-bowers.jpg
   affiliated: true
 
 carrie-bly:
@@ -50,7 +78,7 @@ carrie-bly:
   twitter_account_name:
   github_account_name:
   image: carrie-bly.jpg
-  affiliated: summer
+  affiliated: false
 
 hannah-brinkmann:
   name: Hannah Brinkmann
@@ -62,7 +90,7 @@ hannah-brinkmann:
   twitter_account_name:
   github_account_name:
   image: hannah-brinkmann.jpg
-  affiliated: summer
+  affiliated: false
 
 rebecca-cremona:
   name: Rebecca Cremona
@@ -90,12 +118,12 @@ franny-corry:
   twitter_account_name:
   github_account_name:
   image: franny-corry.jpg
-  affiliated: summer
+  affiliated: false
 
 jack-cushman:
   name: Jack Cushman
   sort_name: Cushman
-  role: Senior developer
+  role: Senior Developer
   bio: >
     Jack is an attorney, developer, and tinkerer. He once built a
     working web server using only a Perl script, a paperclip, and a
@@ -117,7 +145,7 @@ julian-degroot-lutzner:
   twitter_account_name:
   github_account_name: jdegrootlutzner
   image: julian-degroot-lutzner.jpg
-  affiliated: summer
+  affiliated: false
 
 paul-deschner:
   name: Paul Deschner
@@ -146,7 +174,7 @@ alexandra-dolan-mescal:
   twitter_account_name: fromadmwithlove
   github_account_name:
   image: alexandra-dolan-mescal.jpg
-  affiliated: summer
+  affiliated: false
 
 jay-edwards:
   name: Jay Edwards
@@ -158,7 +186,7 @@ jay-edwards:
   twitter_account_name: meangrape
   github_account_name:
   image: jay-edwards.jpg
-  affiliated: true
+  affiliated: false
 
 shira-feldman:
   name: Shira Feldman
@@ -170,7 +198,20 @@ shira-feldman:
   twitter_account_name: shirarbira
   github_account_name: shirarbira
   image: shira-feldman.jpg
-  affiliated: summer
+  affiliated: false
+
+kelly-fitzpatrick:
+  name: Kelly Fitzpatrick
+  sort_name: Fitzpatrick
+  role: Research Associate
+  bio: >
+    Kelly is an open access and digital collections specialist with an affinity for coffee, hedgehogs, and glam rock.
+  email: lfitzpatrick@cyber.harvard.edu
+  website: http://lkfitz.tumblr.com/
+  twitter_account_name: fitzbub
+  github_account_name: lkfitz
+  image: kelly-fitzpatrick.jpg
+  affiliated: true
 
 kendra-greene:
   name: Kendra Greene
@@ -180,7 +221,7 @@ kendra-greene:
   email: akendragreene@gmail.com
   website: http://akendragreene.com
   image: kendra-greene.jpg
-  affiliated: summer
+  affiliated: false
 
 casey-gruppioni:
   name: Casey Gruppioni
@@ -194,7 +235,7 @@ casey-gruppioni:
   twitter_account_name: cgruppioni
   github_account_name: cgruppioni
   image: casey-gruppioni.jpg
-  affiliated: true
+  affiliated: false
 
 evelin-heidel:
   name: Evelin Heidel
@@ -206,7 +247,7 @@ evelin-heidel:
   twitter_account_name: scannopolis
   github_account_name: scannopolis
   image: evelin-heidel.jpg
-  affiliated: summer
+  affiliated: false
 
 brett-johnson:
   name: Brett Johnson
@@ -234,7 +275,7 @@ caitlin-laughlin:
   twitter_account_name:
   github_account_name:
   image: caitlin-laughlin.jpg
-  affiliated: true
+  affiliated: false
 
 michelle-quin:
   name: Michelle Quin
@@ -244,9 +285,9 @@ michelle-quin:
   email: mquin@wellesley.edu
   website:
   twitter_account_name:
-  github_account_name: mquin
+  github_account_name: michellequin
   image: michelle-quin.jpg
-  affiliated: summer
+  affiliated: false
 
 satvik-shukla:
   name: Satvik Shukla
@@ -258,18 +299,19 @@ satvik-shukla:
   twitter_account_name:
   github_account_name: satvikshukla
   image: satvik-shukla.jpg
-  affiliated: summer
+  affiliated: false
 
 andy-silva:
   name: Andy Silva
   sort_name: Silva
   role: Developer
   bio: >
-    After learning to program as a kid on a Tandy TRS-80, Andy built a
-    career in technology. He naturally followed up his role as a
-    professional developer with a tour through culinary school. Chef
-    Andy got some sense knocked into him in the kitchen and now he's
-    back in the tech world.
+    Though Andy has worked with the Harvard Law School Library off-and-on for almost twenty years,
+    his professional experience is unusually broad. He helped maintain the Federal Reserve
+    Bank's check processing infrastructure, worked with many restaurants, nightclubs, and bars
+    as a classically trained chef and bouncer, worked in code-level support for an IBM network
+    performance suite, and even worked as a 35mm movie projectionist. He is currently a developer
+    working primarily on Caselaw Access Project's back end, and a student of Interactive Design.
   email: asilva@law.harvard.edu
   website:
   twitter_account_name: SomeInterwebDev
@@ -293,15 +335,19 @@ clare-stanton:
 ben-steinberg:
   name: Ben Steinberg
   sort_name: Steinberg
-  role: Developer
+  role: DevOps
   bio: >
-    Ben came to software development from his career as a public library
-    reference librarian by way of Perl. He likes making things,
-    including food and analog synths.
+    Ben has been a bookseller, an editorial assistant, and a
+    cataloger, but the largest part of his work life has been as a
+    reference librarian in a public library, where he was also a shop
+    steward and treasurer of his local. Since then, he's become a
+    software developer, at first in support of Harvard's open-access
+    policies at the Office for Scholarly Communication; he now works
+    on the infrastructure for all of LIL's projects.
   email:  bsteinberg@law.harvard.edu
   website:
   twitter_account_name:
-  github_account_name:
+  github_account_name: bensteinberg
   image: ben-steinberg.jpg
   affiliated: true
 
@@ -318,7 +364,7 @@ tim-walsh:
   twitter_account_name: bitarchivist
   github_account_name: timothyryanwalsh
   image: tim-walsh.jpg
-  affiliated: summer
+  affiliated: false
 
 jordi-weinstock:
   name: Jordi Weinstock
@@ -330,7 +376,7 @@ jordi-weinstock:
   twitter_account_name:
   github_account_name:
   image: jordi-weinstock.jpg
-  affiliated: true
+  affiliated: false
 
 jessamyn-west:
   name: Jessamyn West
@@ -342,7 +388,7 @@ jessamyn-west:
   twitter_account_name: jessamyn
   github_account_name:
   image: jessamyn-west.png
-  affiliated: true
+  affiliated: false
 
 adam-ziegler:
   name: Adam Ziegler
@@ -468,6 +514,14 @@ neel-agrawal:
   image: neel-agrawal.jpg
   website: http://neelagrawal.com
   affiliated: false
+
+kendra-albert:
+  name: Kendra Albert
+  sort_name: Albert
+  role: former Research Associate
+  website: https://kendraalbert.com/
+  affiliated: false
+  twitter_account_name: KendraSerra
 
 berkman:
   name: Berkman Klein Center for Internet and Society
@@ -880,5 +934,34 @@ jessica-yurkofsky:
   name: Jessica Yurkofsky
   sort_name: Yurkofsky
   website: http://www.jessyurko.com/
+  role: Creative Technologist at metaLAB
   affiliated: false
 
+alisa-kolot:
+  name: Alisa Kolot
+  sort_name: Kolot
+  role: Sound artist, musician
+  website: http://alisa-kolot.com
+  affiliated: false
+
+matthew-battles:
+  name: Matthew Battles
+  sort_name: Battles
+  role: Associate Director at metaLAB
+  website: http://mbattl.es
+  affiliated: false
+
+keith-hartwig:
+  name: Keith Hartwig
+  sort_name: Hartwig
+  website: http://keithhartwig.com
+  affiliated: false
+  role: FK Productions
+
+sam-stites:
+  name: Sam Stites
+  sort_name: Stites
+  website: https://stites.io/
+  affiliated: false
+  twitter_account_name: samstites
+  role: Machine Learning Engineer at Sentenai
