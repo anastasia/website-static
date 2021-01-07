@@ -1,14 +1,14 @@
 ---
 ### PROJECT METADATA ###
 # Required
-title: Web Archive Comparison Tools
+title: Recollected 
 
 # Optional
-project_website: 
+project_website: https://recollected.github.io
 
-github_repo: https://github.com/harvard-lil/warc-diff-tools
+github_repo: https://github.com/recollected/recollected.github.io
 
-start_date: January 2017
+start_date: March 2019
 
 ### MEDIA ###
 # Required
@@ -23,7 +23,7 @@ thumbnail_image:
 # (216px x 216px)
 # (432px x 432px)
 # (648px x 648px)
-sketch_thumbnail_image: warc-diff-tools.png
+sketch_thumbnail_image: monkey.png
 
 # Optional
 
@@ -44,14 +44,14 @@ video:
 
 # Required
 what_does_it_do: >
-  Web archive comparison
+  Collects stories from people about the things that would hurt for them to lose   
 
 # Optional
 why_does_it_exist: >
-  To provide insight into how websites change over time. 
+  Attempts to archive stories about our relationships to our things 
 
 who_contributed:
-
+    
 ### Override Jekyll Defaults ###
 
 ---

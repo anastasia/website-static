@@ -1,14 +1,14 @@
 ---
 ### PROJECT METADATA ###
 # Required
-title: Web Archive Comparison Tools
+title: CAP Timeline 
 
 # Optional
-project_website: 
+project_website: https://timeline.lil.tools/us-immigration/
 
-github_repo: https://github.com/harvard-lil/warc-diff-tools
+github_repo: https://github.com/harvard-lil/cap-timeline
 
-start_date: January 2017
+start_date: November 2019
 
 ### MEDIA ###
 # Required
@@ -23,7 +23,7 @@ thumbnail_image:
 # (216px x 216px)
 # (432px x 432px)
 # (648px x 648px)
-sketch_thumbnail_image: warc-diff-tools.png
+sketch_thumbnail_image: timeline.png
 
 # Optional
 
@@ -44,14 +44,14 @@ video:
 
 # Required
 what_does_it_do: >
-  Web archive comparison
+  Plots case law, legislation, U.S. and world events on a timeline. Shows relationships between case law and events.   
 
 # Optional
 why_does_it_exist: >
-  To provide insight into how websites change over time. 
+  To provide context around case law, legislation, and historical events. 
 
 who_contributed:
-
+    
 ### Override Jekyll Defaults ###
 
 ---

@@ -24,18 +24,21 @@ anastasia-aizman:
   image: anastasia-aizman.png
   affiliated: true
 
-  #brennan-chesley:
-  #name: Brennan Chesley
-  #sort_name: Chesley
-  #role: Developer
-  #bio: >
-  #        We're moving towards bios that are longer and a bit less jokey, like Ben's and Andy's bios
-  #email: bchesley@law.harvard.edu
-  #website: https://google.com
-  #twitter_account_name:
-  #github_account_name: 
-  #image: brennan-chesley.jpg
-  #affiliated: true
+brennan-chesley:
+  name: Brennan Chesley
+  sort_name: Chesley
+  role: Developer
+  bio: >
+    Brennan has lived in 4 states and 2 countries. He's had a wide variety
+    of professional experience, including making coffee, writing programs
+    to help people make coffee, and never-graduating from the Recurse Center
+    in between. He currently works on the h2o project.
+  email: bchesley@law.harvard.edu
+  website:
+  twitter_account_name:
+  github_account_name: holtchesley
+  image: brennan-chesley.jpg
+  affiliated: true
 
 samantha-bates:
   name: Samantha Bates
@@ -56,17 +59,16 @@ samantha-bates:
 john-bowers:
   name: John Bowers
   sort_name: Bowers
-  role: Research Associate
+  role: former Research Associate
   bio: >
-    John works as a research associate for Professor Zittrain. He likes
+    John worked as a research associate for Professor Zittrain. He likes
     cooking, statistics, and historical nonfiction, and once legally named
     his pet cat "Bitcoin" after losing a bet.
   email: jobowers@law.harvard.edu
   website:
   twitter_account_name:
   github_account_name: john-bowers
-  image: john-bowers.jpg
-  affiliated: true
+  affiliated: false
 
 carrie-bly:
   name: Carrie Bly
@@ -77,7 +79,6 @@ carrie-bly:
   website: http://carriebly.com/
   twitter_account_name:
   github_account_name:
-  image: carrie-bly.jpg
   affiliated: false
 
 hannah-brinkmann:
@@ -89,18 +90,20 @@ hannah-brinkmann:
   website: http://hannahbrinkmann.com
   twitter_account_name:
   github_account_name:
-  image: hannah-brinkmann.jpg
   affiliated: false
 
 rebecca-cremona:
   name: Rebecca Cremona
   sort_name: Cremona
-  role: Developer
+  role: Senior Developer
   bio: >
-    Becky is into the relationship between matter and meaning. She
-    presently spends most of her time inducing electrons to do her
-    bidding; in the past she’s studied liturgical gesture, tried to make
-    quantum cryptography work, and tended sheep.
+    Becky was a student of physics and religion before becoming a
+    faculty assistant in the Harvard SEAS Artificial Intelligence
+    group. She moved on to support Harvard's open-access policies at
+    the Office for Scholarly Communication, where she got the bug for
+    web development. She now spends most of her time working on
+    Perma.cc, advocating for web accessibility, and assisting with
+    other LIL projects.
   email: rcremona@law.harvard.edu
   website:
   twitter_account_name: RebeccaCremona
@@ -117,19 +120,21 @@ franny-corry:
   website: http://francescorry.net
   twitter_account_name:
   github_account_name:
-  image: franny-corry.jpg
   affiliated: false
 
 jack-cushman:
   name: Jack Cushman
   sort_name: Cushman
   role: Senior Developer
-  bio: >
-    Jack is an attorney, developer, and tinkerer. He once built a
-    working web server using only a Perl script, a paperclip, and a
-    pack of bubblegum.
+  bio: |
+    Jack worked as an appellate litigator before coming to write code at LIL. His proudest case was 
+    [Finch v. Commonwealth](https://cite.case.law/mass/461/232/), which returned health insurance 
+    coverage to tens of thousands of Massachusetts immigrants — and now lives on at case.law, the American caselaw
+    database Jack helps to run. 
+    
+    Jack has served as a board member of the ACLU of Massachusetts and as a fellow of the Berkman Klein Center 
+    for Internet and Society. He also teaches the Programming for Lawyers course at Harvard Law School.
   email: jcushman@law.harvard.edu
-  website: http://jackcushman.org
   twitter_account_name:
   github_account_name:  jcushman
   image: jack-cushman.jpg
@@ -144,7 +149,6 @@ julian-degroot-lutzner:
   website:
   twitter_account_name:
   github_account_name: jdegrootlutzner
-  image: julian-degroot-lutzner.jpg
   affiliated: false
 
 paul-deschner:
@@ -159,7 +163,7 @@ paul-deschner:
   twitter_account_name:
   github_account_name:
   image: paul-deschner.jpg
-  affiliated: true
+  affiliated: false
 
 alexandra-dolan-mescal:
   name: Alexandra Dolan-Mescal
@@ -173,7 +177,6 @@ alexandra-dolan-mescal:
   website: http://dhalab.org/alexdm
   twitter_account_name: fromadmwithlove
   github_account_name:
-  image: alexandra-dolan-mescal.jpg
   affiliated: false
 
 jay-edwards:
@@ -197,7 +200,6 @@ shira-feldman:
   website: http://www.shira-feldman.net
   twitter_account_name: shirarbira
   github_account_name: shirarbira
-  image: shira-feldman.jpg
   affiliated: false
 
 kelly-fitzpatrick:
@@ -220,7 +222,6 @@ kendra-greene:
   bio:
   email: akendragreene@gmail.com
   website: http://akendragreene.com
-  image: kendra-greene.jpg
   affiliated: false
 
 casey-gruppioni:
@@ -246,7 +247,6 @@ evelin-heidel:
   website: http://adigitalizar.org/
   twitter_account_name: scannopolis
   github_account_name: scannopolis
-  image: evelin-heidel.jpg
   affiliated: false
 
 brett-johnson:
@@ -260,7 +260,7 @@ brett-johnson:
   twitter_account_name:
   github_account_name:
   image: brett-johnson.jpg
-  affiliated: true
+  affiliated: false
 
 caitlin-laughlin:
   name: Caitlin Laughlin
@@ -274,7 +274,6 @@ caitlin-laughlin:
   website:
   twitter_account_name:
   github_account_name:
-  image: caitlin-laughlin.jpg
   affiliated: false
 
 michelle-quin:
@@ -286,7 +285,6 @@ michelle-quin:
   website:
   twitter_account_name:
   github_account_name: michellequin
-  image: michelle-quin.jpg
   affiliated: false
 
 satvik-shukla:
@@ -298,7 +296,6 @@ satvik-shukla:
   website: http://www.satvikshukla.com
   twitter_account_name:
   github_account_name: satvikshukla
-  image: satvik-shukla.jpg
   affiliated: false
 
 andy-silva:
@@ -351,19 +348,18 @@ ben-steinberg:
   image: ben-steinberg.jpg
   affiliated: true
 
-tim-walsh:
-  name: Tim Walsh
+tessa-walsh:
+  name: Tessa Walsh
   sort_name: Walsh
   role: 2018 Summer Fellow
   bio: >
-    Tim is a digital archivist and programmer. He can typically be found
+    Tessa is a digital archivist and programmer. She can typically be found
     behind a laptop or on a bicycle, and is always looking for French speakers
     to practice with and new sci-fi to read.
-  email: timothyryanwalsh@gmail.com
+  email: tessa@bitarchivist.net
   website: https://www.bitarchivist.net/
   twitter_account_name: bitarchivist
-  github_account_name: timothyryanwalsh
-  image: tim-walsh.jpg
+  github_account_name: tw4l
   affiliated: false
 
 jordi-weinstock:
@@ -375,7 +371,6 @@ jordi-weinstock:
   website:
   twitter_account_name:
   github_account_name:
-  image: jordi-weinstock.jpg
   affiliated: false
 
 jessamyn-west:
@@ -387,7 +382,6 @@ jessamyn-west:
   website: http://www.librarian.net/
   twitter_account_name: jessamyn
   github_account_name:
-  image: jessamyn-west.png
   affiliated: false
 
 adam-ziegler:
@@ -395,9 +389,7 @@ adam-ziegler:
   sort_name: Ziegler
   role: Director
   bio: >
-    Adam is a lawyer and freethrow champion. He once made an opposing
-    lawyer cry during trial...in a good way. His favorite book is Clovis
-    Crawfish and His Friends.
+    Adam joined LIL in 2014, after representing clients in court as an attorney for 10+ years and then launching a web startup that sought to promote open and collaborative legal knowledge. He's worked for law firms large and small, the U.S. DOJ, a federal appellate judge, the Davidson College Library, and a pizza buffet, among others, and he's taught law school courses on computer programming and the role of technology in legal services. He's immensely proud of LIL's work and grateful to be part of such a creative and kind-hearted team.
   email:  aziegler@law.harvard.edu
   website:
   twitter_account_name: abziegler
@@ -410,7 +402,7 @@ jonathan-zittrain:
   sort_name: Zittrain
   role: Harvard Faculty and Law School Library Director
   bio: >
-    JZ is a proud dog owner. Oh, and he directs the Law School Library,
+    JZ directs the Law School Library,
     co-created the Berkman Center, is an EFF board member, and is
     faculty in the Law School, School of Engineering and Applied
     Sciences, and the Kennedy School.
@@ -505,7 +497,6 @@ zena-agha:
   website: https://zenaagha.com/about/
   twitter_account_name: Zena_Agha
   affiliated: false
-  image: zena-agha.png
 
 neel-agrawal:
   name: Neel Agrawal
@@ -539,7 +530,6 @@ anna-bialas:
   twitter_account_name: femalegazebot
   github_account_name: annabialas
   affiliated: false
-  image: anna-bialas.png
 
 rachel-binx:
   name: Rachel Binx
@@ -630,7 +620,6 @@ jake-effoduh:
   affiliated: false
   twitter_account_name: effodu
   website: http://www.law2go.org/
-  image: jake-effoduh.png
 
 antontio-fernandes:
   name: Antonio Fernandes
@@ -713,7 +702,6 @@ rachel-karasick:
   affiliated: false
   website: https://rachelkarasick.com/
   twitter_account_name: rkarasick
-  image: rachel-karasick.png
 
 ilya-kreymer:
   name: Ilya Kreymer
@@ -731,7 +719,6 @@ doyung-lee:
   role: LIL and Berkman Summer Intern
   website: https://doyunglee.github.io/
   affiliated: false
-  image: doyung-lee.png
 
 erica-leeman:
   name: Erica Leeman
@@ -811,7 +798,6 @@ matt-miller:
   website: http://thisismattmiller.com/
   twitter_account_name: thisismmiller
   github_account_name: thisismmiller
-  image: matt-miller.png
 
 miglena-minkova:
   name: Miglena Minkova
@@ -821,7 +807,6 @@ miglena-minkova:
   website: http://miglenaminkova.com/
   twitter_account_name: miglenaminkova
   github_account_name: MMinkova
-  image: miglena-minkova.png
 
 loren-newman:
   name: Loren Newman
@@ -857,7 +842,6 @@ zach-tan:
   role: LIL and Berkman Summer Intern
   website: http://www.zachtan.co/
   affiliated: false
-  image: zach-tan.png
 
 shailin-thomas:
   name: Shailin Thomas
@@ -898,7 +882,6 @@ reid-whitaker:
   website: http://reidmwhitaker.com/
   twitter_account_name: reidmwhitaker
   github_account_name: reidmwitaker
-  image: reid-whitaker.png
 
 dano-williams:
   name: Dano Williams
